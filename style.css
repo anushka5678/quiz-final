@@ -1,0 +1,33 @@
+body
+{
+	background-image:url("https://press.princeton.edu/sites/default/files/styles/hero_background/public/2019-09/SUB_Math_01_0.jpg?itok=dmWvu8Xm");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-top: 30px;
+	}
+
+
+#player1_name , #player2_name,#player_question , #player_answer , #player1_score, #player2_score
+{
+	display: inline-block;
+	margin-left: 20px;
+	color:bisque;
+	background-color: rgb(108, 141, 202);
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
